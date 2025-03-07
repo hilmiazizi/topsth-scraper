@@ -281,7 +281,7 @@ def scrape_category():
     with shelve.open("cache_shelve") as db:
         complete = db.get('category')
     with open("category.json", "w", encoding="utf-8") as f:
-        json.dump(level2, f, indent=4, ensure_ascii=False) 
+        json.dump(complete, f, indent=4, ensure_ascii=False) 
 
 scrape_category()
 final_scrape()
