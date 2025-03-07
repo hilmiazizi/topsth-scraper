@@ -8,7 +8,6 @@ from bs4 import BeautifulSoup
 import os
 from tqdm import tqdm
 import concurrent.futures
-import time
 
 
 skus = []
