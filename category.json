@@ -1,0 +1,833 @@
+{
+    "MzQ3MTk4": {
+        "category_name": "Mom & Kids",
+        "category_id": "MzQ3MTk4",
+        "sub_category": {
+            "MzQ3MzQy": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Baby Personal Care",
+                "sub_category_id": "MzQ3MzQy"
+            },
+            "MzQ3NDQ0": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Toddler (1-3year)",
+                "sub_category_id": "MzQ3NDQ0"
+            },
+            "MzQ3MjYx": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Baby Diapers",
+                "sub_category_id": "MzQ3MjYx"
+            },
+            "MzQ3NDA4": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Milk Powder",
+                "sub_category_id": "MzQ3NDA4"
+            },
+            "MzQ3MjEz": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Baby (4-12month)",
+                "sub_category_id": "MzQ3MjEz"
+            },
+            "MzQ3MjI1": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Baby Accessory",
+                "sub_category_id": "MzQ3MjI1"
+            },
+            "MzQ3NDY1": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "UHT Milk",
+                "sub_category_id": "MzQ3NDY1"
+            },
+            "MzQ3Mjk3": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Baby Food",
+                "sub_category_id": "MzQ3Mjk3"
+            },
+            "MzQ3MzYz": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Infant (0-3 month)",
+                "sub_category_id": "MzQ3MzYz"
+            },
+            "MzQ3MjQ2": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Baby Cleaning",
+                "sub_category_id": "MzQ3MjQ2"
+            },
+            "MzQ3MjAx": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Apparel & Toys",
+                "sub_category_id": "MzQ3MjAx"
+            },
+            "MzQ3NDI5": {
+                "parent_category_uid": "MzQ3MTk4",
+                "sub_categrory_name": "Pregnancy",
+                "sub_category_id": "MzQ3NDI5"
+            }
+        }
+    },
+    "MzY5NjIw": {
+        "category_name": "Shop by Brands",
+        "category_id": "MzY5NjIw",
+        "sub_category": {
+            "Mzc4Mzcx": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Snacker",
+                "sub_category_id": "Mzc4Mzcx"
+            },
+            "Mzc1Njcx": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Looks",
+                "sub_category_id": "Mzc1Njcx"
+            },
+            "MzczNTgz": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Healthiful",
+                "sub_category_id": "MzczNTgz"
+            },
+            "Mzc4MzE0": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "SINO Brands",
+                "sub_category_id": "Mzc4MzE0"
+            },
+            "MzgwNjQ0": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "EVER CLEAN",
+                "sub_category_id": "MzgwNjQ0"
+            },
+            "MzcyNDc2": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Food Hall Selections",
+                "sub_category_id": "MzcyNDc2"
+            },
+            "MzcwMDA3": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Baby & Me-by Stage",
+                "sub_category_id": "MzcwMDA3"
+            },
+            "MzY5OTQ0": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Baby & Me",
+                "sub_category_id": "MzY5OTQ0"
+            },
+            "Mzc4NTMz": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Snacker-World's best",
+                "sub_category_id": "Mzc4NTMz"
+            },
+            "MzcyOTEx": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Frozen & Co.",
+                "sub_category_id": "MzcyOTEx"
+            },
+            "MzgyNTE0": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "I LOVE THAILAND",
+                "sub_category_id": "MzgyNTE0"
+            },
+            "MzcxMTM4": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Cuisine Masters",
+                "sub_category_id": "MzcxMTM4"
+            },
+            "MzcyNTAw": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Food Hall Selections Products",
+                "sub_category_id": "MzcyNTAw"
+            },
+            "MzcyNjY4": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Freshest Flavours",
+                "sub_category_id": "MzcyNjY4"
+            },
+            "MzcwNzE1": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "CHEF YIM at home",
+                "sub_category_id": "MzcwNzE1"
+            },
+            "MzczOTQw": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Jame the Butcher",
+                "sub_category_id": "MzczOTQw"
+            },
+            "MzczNTU2": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Health Specific",
+                "sub_category_id": "MzczNTU2"
+            },
+            "MzcyNTc4": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Fresh from field",
+                "sub_category_id": "MzcyNTc4"
+            },
+            "Mzc2MTcy": {
+                "parent_category_uid": "MzY5NjIw",
+                "sub_categrory_name": "Matsumoto Kiyoshi",
+                "sub_category_id": "Mzc2MTcy"
+            }
+        }
+    },
+    "MzgzMDE2": {
+        "category_name": "Promotion",
+        "category_id": "MzgzMDE2",
+        "sub_category": {
+            "MzgzMDE5": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Fresh",
+                "sub_category_id": "MzgzMDE5"
+            },
+            "MzgzMTY5": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-sino-2025-sep",
+                "sub_category_id": "MzgzMTY5"
+            },
+            "MzgzMjIw": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-unilever-2025-feb",
+                "sub_category_id": "MzgzMjIw"
+            },
+            "MzgzMTQ1": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-gbf-2025-oct",
+                "sub_category_id": "MzgzMTQ1"
+            },
+            "MzgzMTUx": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-kcg-2025-aug",
+                "sub_category_id": "MzgzMTUx"
+            },
+            "MzgzMjA1": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-loreal-2025-apr",
+                "sub_category_id": "MzgzMjA1"
+            },
+            "MzgzMTc1": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-betagro-2025-nov",
+                "sub_category_id": "MzgzMTc1"
+            },
+            "MzgzMTk5": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-colgate-2025-jun",
+                "sub_category_id": "MzgzMTk5"
+            },
+            "MzgzNDg1": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Chinese New Year 2025",
+                "sub_category_id": "MzgzNDg1"
+            },
+            "MzgzMTU3": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-sea-2025-dec",
+                "sub_category_id": "MzgzMTU3"
+            },
+            "MzgzMjEx": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-olive-young-2025-jul",
+                "sub_category_id": "MzgzMjEx"
+            },
+            "MzgzMTYz": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-Singha-2025-jan",
+                "sub_category_id": "MzgzMTYz"
+            },
+            "MzgzMjYy": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-royal-umbrella-2025-mar",
+                "sub_category_id": "MzgzMjYy"
+            },
+            "MzgzMTM5": {
+                "parent_category_uid": "MzgzMDE2",
+                "sub_categrory_name": "Thankyou-crystal-2025-may",
+                "sub_category_id": "MzgzMTM5"
+            }
+        }
+    },
+    "MzQ2OTgy": {
+        "category_name": "Health & Beauty Care",
+        "category_id": "MzQ2OTgy",
+        "sub_category": {
+            "MzQ2OTkx": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Body Care",
+                "sub_category_id": "MzQ2OTkx"
+            },
+            "MzQ3MTYy": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Makeup",
+                "sub_category_id": "MzQ3MTYy"
+            },
+            "MzQ3MDI0": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Facial Care",
+                "sub_category_id": "MzQ3MDI0"
+            },
+            "MzQ3MDgx": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Hair Care",
+                "sub_category_id": "MzQ3MDgx"
+            },
+            "MzQ3MTE3": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Health & Supplement",
+                "sub_category_id": "MzQ3MTE3"
+            },
+            "MzQ3MTgz": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Oral Care",
+                "sub_category_id": "MzQ3MTgz"
+            },
+            "MzQ3MDYw": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Feminine Care",
+                "sub_category_id": "MzQ3MDYw"
+            },
+            "MzQ3MTAy": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Hand & Foot Care",
+                "sub_category_id": "MzQ3MTAy"
+            },
+            "MzQ3MTQ0": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "Incontinence",
+                "sub_category_id": "MzQ3MTQ0"
+            },
+            "MzgwMzE1": {
+                "parent_category_uid": "MzQ2OTgy",
+                "sub_categrory_name": "ATK Self test",
+                "sub_category_id": "MzgwMzE1"
+            }
+        }
+    },
+    "MzU3ODMz": {
+        "category_name": "International Products",
+        "category_id": "MzU3ODMz",
+        "sub_category": {
+            "MzU4MTgx": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "Import Products",
+                "sub_category_id": "MzU4MTgx"
+            },
+            "MzU4Mjg2": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "USA",
+                "sub_category_id": "MzU4Mjg2"
+            },
+            "MzU3ODY2": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "Asian flavours",
+                "sub_category_id": "MzU3ODY2"
+            },
+            "MzU4MzM0": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "USA-Grocery",
+                "sub_category_id": "MzU4MzM0"
+            },
+            "MzU3OTk4": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "FRANCE",
+                "sub_category_id": "MzU3OTk4"
+            },
+            "MzU4MTAw": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "JAPAN",
+                "sub_category_id": "MzU4MTAw"
+            },
+            "MzU4MTMz": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "ITALY",
+                "sub_category_id": "MzU4MTMz"
+            },
+            "MzgwNzE4": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "SOUTH KOREA",
+                "sub_category_id": "MzgwNzE4"
+            },
+            "MzU3ODkz": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "Asian flavours-JAPAN",
+                "sub_category_id": "MzU3ODkz"
+            },
+            "MzU4MjY1": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "SPAIN",
+                "sub_category_id": "MzU4MjY1"
+            },
+            "MzU3OTY4": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "AUSTRALIA",
+                "sub_category_id": "MzU3OTY4"
+            },
+            "MzU3OTE3": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "Asian flavours-KOREA",
+                "sub_category_id": "MzU3OTE3"
+            },
+            "MzgwODIz": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "SWITZERLAND",
+                "sub_category_id": "MzgwODIz"
+            },
+            "MzgwNzQ4": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "NEW ZEALAND",
+                "sub_category_id": "MzgwNzQ4"
+            },
+            "MzgwNzMz": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "CHINA",
+                "sub_category_id": "MzgwNzMz"
+            },
+            "MzU4MzIy": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "USA-Fresh Food&Bakery",
+                "sub_category_id": "MzU4MzIy"
+            },
+            "MzgwODU0": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "NETHERLAND",
+                "sub_category_id": "MzgwODU0"
+            },
+            "MzU3ODgx": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "Asian flavours-CHINA",
+                "sub_category_id": "MzU3ODgx"
+            },
+            "MzU4MjQx": {
+                "parent_category_uid": "MzU3ODMz",
+                "sub_categrory_name": "UNITED KINGDOM",
+                "sub_category_id": "MzU4MjQx"
+            }
+        }
+    },
+    "MzQ3OTg0": {
+        "category_name": "Pantry & Ingredients",
+        "category_id": "MzQ3OTg0",
+        "sub_category": {
+            "MzQ4MjM5": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Seasonings & Spices",
+                "sub_category_id": "MzQ4MjM5"
+            },
+            "MzQ4MjA2": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Sauces",
+                "sub_category_id": "MzQ4MjA2"
+            },
+            "MzQ4MTQ5": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Instant Noodles & Porridge",
+                "sub_category_id": "MzQ4MTQ5"
+            },
+            "MzQ4MDM1": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Cereal",
+                "sub_category_id": "MzQ4MDM1"
+            },
+            "MzQ3OTg3": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Baking & Dessert Ingredients",
+                "sub_category_id": "MzQ3OTg3"
+            },
+            "MzQ4MDEx": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Canned Food",
+                "sub_category_id": "MzQ4MDEx"
+            },
+            "MzQ4MTIy": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Flour Noodles & Pasta",
+                "sub_category_id": "MzQ4MTIy"
+            },
+            "MzQ4MDU5": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Condiments",
+                "sub_category_id": "MzQ4MDU5"
+            },
+            "MzQ4MTY0": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Preserves & Spreads",
+                "sub_category_id": "MzQ4MTY0"
+            },
+            "MzQ4MDc0": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Cooking Oils",
+                "sub_category_id": "MzQ4MDc0"
+            },
+            "MzQ4MTgy": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Rice",
+                "sub_category_id": "MzQ4MTgy"
+            },
+            "MzQ4Mjc4": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Sugar & Sweeteners",
+                "sub_category_id": "MzQ4Mjc4"
+            },
+            "MzQ4MTA0": {
+                "parent_category_uid": "MzQ3OTg0",
+                "sub_categrory_name": "Dried Ingredients",
+                "sub_category_id": "MzQ4MTA0"
+            }
+        }
+    },
+    "MzQ2ODU2": {
+        "category_name": "Snacks & Desserts",
+        "category_id": "MzQ2ODU2",
+        "sub_category": {
+            "MzQ2ODU5": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Biscuits Cookies & Crackers",
+                "sub_category_id": "MzQ2ODU5"
+            },
+            "MzQ2OTEw": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Chocolate",
+                "sub_category_id": "MzQ2OTEw"
+            },
+            "MzQ2ODk1": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Chips",
+                "sub_category_id": "MzQ2ODk1"
+            },
+            "MzQ2ODc3": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Candies & Chewing Gum",
+                "sub_category_id": "MzQ2ODc3"
+            },
+            "MzQ2OTY0": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Nuts & Dried Fruit",
+                "sub_category_id": "MzQ2OTY0"
+            },
+            "MzQ2OTM3": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Ice Cream",
+                "sub_category_id": "MzQ2OTM3"
+            },
+            "MzQ2OTUy": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Meat & Seafood Snacks",
+                "sub_category_id": "MzQ2OTUy"
+            },
+            "MzQ2OTE5": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Corn Chips & Popcorn",
+                "sub_category_id": "MzQ2OTE5"
+            },
+            "MzQ2OTQz": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Local Snacks",
+                "sub_category_id": "MzQ2OTQz"
+            },
+            "MzQ2OTI1": {
+                "parent_category_uid": "MzQ2ODU2",
+                "sub_categrory_name": "Desserts",
+                "sub_category_id": "MzQ2OTI1"
+            }
+        }
+    },
+    "MzQ3NzU2": {
+        "category_name": "Fresh Food & Bakery",
+        "category_id": "MzQ3NzU2",
+        "sub_category": {
+            "MzQ3OTAw": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Frozen Food",
+                "sub_category_id": "MzQ3OTAw"
+            },
+            "MzQ3ODQz": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Chilled Foods",
+                "sub_category_id": "MzQ3ODQz"
+            },
+            "MzQ3ODY3": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Deli Meat",
+                "sub_category_id": "MzQ3ODY3"
+            },
+            "MzQ3ODEw": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Cheese",
+                "sub_category_id": "MzQ3ODEw"
+            },
+            "MzQ3NzU5": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Bakery",
+                "sub_category_id": "MzQ3NzU5"
+            },
+            "MzQ3OTMz": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Ice Cream",
+                "sub_category_id": "MzQ3OTMz"
+            },
+            "MzQ3ODg1": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Fresh Milk",
+                "sub_category_id": "MzQ3ODg1"
+            },
+            "MzQ3OTYz": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Yogurt",
+                "sub_category_id": "MzQ3OTYz"
+            },
+            "MzQ3Nzky": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Butter & Cream",
+                "sub_category_id": "MzQ3Nzky"
+            },
+            "MzQ3ODcz": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Egg",
+                "sub_category_id": "MzQ3ODcz"
+            },
+            "MzQ3OTM5": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Ready To Eat Meal",
+                "sub_category_id": "MzQ3OTM5"
+            },
+            "MzQ3OTI3": {
+                "parent_category_uid": "MzQ3NzU2",
+                "sub_categrory_name": "Ice",
+                "sub_category_id": "MzQ3OTI3"
+            }
+        }
+    },
+    "MzQ3OTgx": {
+        "category_name": "Household & Merit",
+        "category_id": "MzQ3OTgx",
+        "sub_category": {
+            "MzQ3NTg4": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Kitchen Supplies",
+                "sub_category_id": "MzQ3NTg4"
+            },
+            "MzQ3NjU0": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Miscellaneous",
+                "sub_category_id": "MzQ3NjU0"
+            },
+            "MzQ3NjE1": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Laundry",
+                "sub_category_id": "MzQ3NjE1"
+            },
+            "MzQ3Njk5": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Pet Care",
+                "sub_category_id": "MzQ3Njk5"
+            },
+            "MzQ3NTAx": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Batteries & Appliances",
+                "sub_category_id": "MzQ3NTAx"
+            },
+            "MzQ3NzMy": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Seasonal",
+                "sub_category_id": "MzQ3NzMy"
+            },
+            "MzQ3NDg2": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Air Fresheners",
+                "sub_category_id": "MzQ3NDg2"
+            },
+            "MzQ3NzM4": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Tissue Paper",
+                "sub_category_id": "MzQ3NzM4"
+            },
+            "MzQ3NTU4": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Household Cleaners",
+                "sub_category_id": "MzQ3NTU4"
+            },
+            "MzQ3NTE2": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Cleaning Tool",
+                "sub_category_id": "MzQ3NTE2"
+            },
+            "MzQ3Njc4": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Pest Control",
+                "sub_category_id": "MzQ3Njc4"
+            },
+            "MzQ3NTQw": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Dish Cleaner",
+                "sub_category_id": "MzQ3NTQw"
+            },
+            "MzQ3NjM5": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Merit Set",
+                "sub_category_id": "MzQ3NjM5"
+            },
+            "MzgxNTYw": {
+                "parent_category_uid": "MzQ3OTgx",
+                "sub_categrory_name": "Outdoor",
+                "sub_category_id": "MzgxNTYw"
+            }
+        }
+    },
+    "MzQ4Mjk5": {
+        "category_name": "Beverages",
+        "category_id": "MzQ4Mjk5",
+        "sub_category": {
+            "MzQ4MzE0": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Coffee",
+                "sub_category_id": "MzQ4MzE0"
+            },
+            "MzQ4MzU2": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Fruit Juice",
+                "sub_category_id": "MzQ4MzU2"
+            },
+            "MzQ4NDQz": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Tea",
+                "sub_category_id": "MzQ4NDQz"
+            },
+            "MzQ4MzQx": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Fresh Milk",
+                "sub_category_id": "MzQ4MzQx"
+            },
+            "MzQ4NDYx": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "UHT Milk",
+                "sub_category_id": "MzQ4NDYx"
+            },
+            "MzQ4NDI4": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Soft Drink & Mixers",
+                "sub_category_id": "MzQ4NDI4"
+            },
+            "MzQ4Mzg2": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Health Tonics",
+                "sub_category_id": "MzQ4Mzg2"
+            },
+            "MzQ4MzAy": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Bottled Water",
+                "sub_category_id": "MzQ4MzAy"
+            },
+            "MzQ4NDEz": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Powder Health Tonic",
+                "sub_category_id": "MzQ4NDEz"
+            },
+            "MzQ4Mzc3": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Functional Drinks",
+                "sub_category_id": "MzQ4Mzc3"
+            },
+            "MzQ4NDA3": {
+                "parent_category_uid": "MzQ4Mjk5",
+                "sub_categrory_name": "Non-Alcoholic",
+                "sub_category_id": "MzQ4NDA3"
+            }
+        }
+    },
+    "MzQ5MTkz": {
+        "category_name": "Tops Picks",
+        "category_id": "MzQ5MTkz",
+        "sub_category": {
+            "MzUzNjM5": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Microwave Fried Rice",
+                "sub_category_id": "MzUzNjM5"
+            },
+            "MzU3MzI5": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Traditional Thai Salad",
+                "sub_category_id": "MzU3MzI5"
+            },
+            "MzU1MDU1": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Santa Cheesecake",
+                "sub_category_id": "MzU1MDU1"
+            },
+            "MzU0OTYy": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Royal Project",
+                "sub_category_id": "MzU0OTYy"
+            },
+            "MzU0MTI1": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Organic Food",
+                "sub_category_id": "MzU0MTI1"
+            },
+            "MzUxNzc5": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Egg Stuffed Bell Pepper",
+                "sub_category_id": "MzUxNzc5"
+            },
+            "MzU0OTQ3": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Seafood Paella",
+                "sub_category_id": "MzU0OTQ3"
+            },
+            "MzU0MjI3": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Pasta and Spaghetti",
+                "sub_category_id": "MzU0MjI3"
+            },
+            "MzU1MDgy": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Salmon Porridge with Onsen Egg",
+                "sub_category_id": "MzU1MDgy"
+            },
+            "MzQ5MjM1": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "3 Dipping Sauce Recipes",
+                "sub_category_id": "MzQ5MjM1"
+            },
+            "MzU1Mzk0": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Shrimp Spaghetti in Avocado Sauce",
+                "sub_category_id": "MzU1Mzk0"
+            },
+            "MzU1NDA5": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Shrimp with Tamarind Sauce",
+                "sub_category_id": "MzU1NDA5"
+            },
+            "MzU2NzI5": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Stuffed Bitter Gourd Soup",
+                "sub_category_id": "MzU2NzI5"
+            },
+            "MzUwODU4": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Chocolate Covered Strawberry",
+                "sub_category_id": "MzUwODU4"
+            },
+            "MzQ5MjY4": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "3 Halloween Desserts Ideas",
+                "sub_category_id": "MzQ5MjY4"
+            },
+            "MzUzNDIz": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Mango with Sweet Fish Suace",
+                "sub_category_id": "MzUzNDIz"
+            },
+            "MzUyMjUz": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Ginger Fried Rice",
+                "sub_category_id": "MzUyMjUz"
+            },
+            "MzU3Mjc1": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Tuna",
+                "sub_category_id": "MzU3Mjc1"
+            },
+            "MzUwMTUw": {
+                "parent_category_uid": "MzQ5MTkz",
+                "sub_categrory_name": "Bibimbab by Omma at Tops",
+                "sub_category_id": "MzUwMTUw"
+            }
+        }
+    }
+}
