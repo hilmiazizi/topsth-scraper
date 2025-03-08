@@ -49,7 +49,7 @@ def get_product_list(cat_data, pbar):
                 finalized_data = product_handler(line)
                 
                 if finalized_data:
-                    pbar.write(f"{finalized_data['product_name']} --> Scraped!")
+                    pbar.write(f"[{cat_data['cat_name']}] - {finalized_data['product_name']} --> Scraped!")
                     products.append(finalized_data)
         page+=1
     
@@ -121,14 +121,15 @@ def data_saver(data, level, name=None):
     if level == 2:
         with shelve.open("cache_shelve") as db:
             categories = db.get("category", {}) 
-            cat_dict = {
-                        'MzQ3MTk4' : {
-                                'category_name':'Mom & Kids',
-                                'category_id':'MzQ3MTk4'
-                            }
-                        }
-            if 'MzQ3MTk4' not in categories:
-                categories.update(cat_dict)
+            new_categories = {
+                'MzQ3MTk4': {'category_name': 'Mom & Kids', 'category_id': 'MzQ3MTk4'},
+                'MzQ2NTQ0': {'category_name': 'Fruit & Vegetables', 'category_id': 'MzQ2NTQ0'},
+                'MzQ2NjU1': {'category_name': 'Meat & Seafood', 'category_id': 'MzQ2NjU1'},
+                'MzgwMzIw': {'category_name': 'Pet Food', 'category_id': 'MzgwMzIw'},
+            }
+
+            if not all(key in categories for key in new_categories):
+                categories.update(new_categories)
                 db["category"] = categories
                 
         for line in data['hits']:
@@ -237,13 +238,18 @@ def final_scrape():
                             'path': folder_path
                         }
                     product_dict[level2_name].append(final_data)
+
     total_data = len(product_dict.keys())
-    pbar = tqdm(total=total_data, desc=f"Scraping all products from categories", colour="red")
+    pbar = tqdm(total=total_data, desc="Scraping all categories", colour="red")
+
     for data in product_dict.keys():
         with concurrent.futures.ThreadPoolExecutor() as executor:
             futures = [executor.submit(get_product_list, x, pbar) for x in product_dict[data]]
-            for future in concurrent.futures.as_completed(futures):
-                pbar.update(1)
+            concurrent.futures.wait(futures)
+        pbar.update(1)
+
+    pbar.close()
+
 
 def scrape_category():
     query = {"query":"","facetFilters":[]}
