@@ -304,7 +304,7 @@ This code is shit honestly, i was really sick and had to finish this in 5 days s
 
 - Total products listed on the website: idk, there is no reliable source, for example the product count from API is 28 while the actual is only 8.
 
-- Total products successfully scraped: 41242
+- Total products successfully scraped: 42744
 
 ## 3. Duplicate Handling Logic
 
@@ -322,6 +322,7 @@ There is no instruction about this, but i have found the hidden API, just fetch 
 ## 5. How to Run the Script
 
     pip install -r requirements.txt
+    rm -rf result
     python3 main.py
 
 ## 6. Challenges Faced & Solutions
